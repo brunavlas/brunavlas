@@ -4,8 +4,7 @@ Sou bibliotecária e me especializo em análise de dados e business intelligence
 
 • Graduada em Biblioteconomia pela Universidade Federal de Santa Catarina (UFSC) e pós-graduada em Data Warehouse e Business Intelligence pela Universidade do Vale do Itajaí (Univali). Busco trabalhar com analise de dados/BI e por isso busquei a especialização além de outros estudos.
 
-• Tenho base em teoria e arquitetura de Data Warehouses assim como conhecimento teórico em Business Intelligence, possibilitados pela pós-graduação na área. 
-Além disso, tenho conhecimento base em Banco de Dados e SQL e no momento estou aprendendo Power BI e Python.
+• Tenho embasamento teórico em arquitetura de Data Warehouses e em Business Intelligence, possibilitado pela pós-graduação na área. Além disso, tenho conhecimento base em Banco de Dados e SQL e no momento estou aprendendo Power BI e Python.
 
 • Minha meta profissional é atuar com foco no produto e/ou Web Analytics.
 
