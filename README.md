@@ -9,7 +9,7 @@ Além disso, tenho conhecimento base em Banco de Dados e SQL e no momento estou 
 
 • Minha meta profissional é atuar com foco no produto e/ou Web Analytics.
 
-• Minhas experiências profissionais tiveram como foco a organização e a recuperação da informação. 
+• Minhas experiências profissionais tiveram como base a organização e a recuperação da informação. 
 
 Veja mais em [Linkedin](https://www.linkedin.com/in/brunasalvan)
 
