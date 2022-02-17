@@ -10,7 +10,11 @@ Sou bibliotecária e me especializo em análise de dados e business intelligence
 
 • Minhas experiências profissionais tiveram como base organização, gestão e recuperação da informação. 
 
-Veja mais em [Linkedin](https://www.linkedin.com/in/brunasalvan)
+<h3 align="left">Contato:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/brunasalvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunasalvan" height="30" width="40" /></a>
+<a href="https://instagram.com/brunavlas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunavlas" height="30" width="40" /></a>
+</p>
 
 <!---
 brunavlas/brunavlas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
